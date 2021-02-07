@@ -3,7 +3,7 @@
 # A Network-scanner
 # Developed by Elieroc
 # Start of project : 28/01/2021
-# Actual version : 1.0
+# Actual version : 1.1
 
 import os
 import subprocess
